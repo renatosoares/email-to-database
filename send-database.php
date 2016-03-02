@@ -9,8 +9,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $uf = $_POST['uf'];
   $message = $_POST['message'];
 }
-
-
 $servername = "localhost";
 $username = "root";
 $password = "geladeira123";
